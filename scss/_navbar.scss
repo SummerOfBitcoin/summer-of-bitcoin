@@ -12,7 +12,7 @@
     @include heading-font;
   }
   .navbar-brand {
-    color: $theme-primary;
+    color: black;
     @include script-font;
     &.active,
     &:active,
@@ -28,11 +28,11 @@
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: white;
+        color: black;
         @include heading-font;
         &.active,
         &:hover {
-          color: $theme-primary;
+          color: white;
         }
       }
       .nav-link-no-js {
@@ -70,7 +70,7 @@
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
-      background-color: $gray-darker;
+      background-color: $theme-primary;
       .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;

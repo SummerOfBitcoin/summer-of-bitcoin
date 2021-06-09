@@ -17,3 +17,13 @@
   @include button-variant(white, $theme-primary, $theme-primary);
   @include heading-font;
 }
+
+ul.no-bullets {
+  list-style-type: none;
+}
+
+img.how-it-works {
+  @media (max-width: 768px) {
+    display: none;
+  }
+}

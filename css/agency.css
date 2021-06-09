@@ -77,7 +77,7 @@ body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
-    color: #FF9900;
+    color: black;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #cc7a00; }
@@ -86,11 +86,11 @@ body {
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: white;
+    color: black;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .active.nav-link-no-js, #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link-no-js:hover {
-      color: #FF9900; }
+      color: white; }
 
 @media (min-width: 992px) {
   #mainNav {
@@ -114,7 +114,7 @@ body {
     #mainNav.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;
-      background-color: #222222; }
+      background-color: #FF9900; }
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0; } }
@@ -122,7 +122,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-color: black;
+  background-image: url(../img/summerbig1.png);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -566,3 +566,10 @@ ul.social-buttons {
   .btn-xl .badge {
     color: #FF9900;
     background-color: white; }
+
+ul.no-bullets {
+  list-style-type: none; }
+
+@media (max-width: 768px) {
+  img.how-it-works {
+    display: none; } }

@@ -28,10 +28,10 @@
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
     "font-awesome": "4.7.0",
+    "graceful-fs": "4.2.2",
     "jquery": "^3.2.1",
     "jquery.easing": "^1.4.1",
-    "popper.js": "^1.11.1",
-    "graceful-fs": "4.2.2"
+    "popper.js": "^1.11.1"
   },
   "devDependencies": {
     "browser-sync": "2.18.13",

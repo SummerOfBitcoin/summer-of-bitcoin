@@ -433,8 +433,9 @@ header.masthead {
       padding: 0 100px 20px 20px; } }
 
 .team-member {
-  margin-bottom: 50px;
-  text-align: center; }
+  margin-bottom: 10px;
+  text-align: center;
+  width: min-content}
   .team-member img {
     width: 105px;
     height: 105px;
@@ -466,11 +467,11 @@ footer {
 ul.social-buttons {
   margin-bottom: 0; }
   ul.social-buttons li a {
-    font-size: 20px;
-    line-height: 40px;
+    font-size: 15px;
+    line-height: 25px;
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 25px;
+    height: 25px;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
@@ -573,3 +574,7 @@ ul.no-bullets {
 @media (max-width: 768px) {
   img.how-it-works {
     display: none; } }
+
+.bio-mentors{
+font-size: x-small;
+}

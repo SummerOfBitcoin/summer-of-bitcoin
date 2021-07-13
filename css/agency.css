@@ -569,12 +569,13 @@ ul.social-buttons {
     background-color: white; }
 
 ul.no-bullets {
-  list-style-type: none; }
+  list-style-type: none;
+  padding-inline-start: unset; }
 
 @media (max-width: 768px) {
   img.how-it-works {
     display: none; } }
 
 .bio-mentors{
-font-size: x-small;
+font-size: small;
 }

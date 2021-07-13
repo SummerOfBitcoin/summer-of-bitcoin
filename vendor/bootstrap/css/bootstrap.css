@@ -381,7 +381,8 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: xx-small;
+  font-size: medium;
+  min-height:40px;
 }
 
 .lead {

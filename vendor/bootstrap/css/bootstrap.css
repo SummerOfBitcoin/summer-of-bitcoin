@@ -381,7 +381,8 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: 1rem;
+  font-size: medium;
+  min-height:40px;
 }
 
 .lead {
@@ -447,7 +448,7 @@ mark,
 }
 
 .list-inline-item:not(:last-child) {
-  margin-right: 0.5rem;
+  margin-right: auto;
 }
 
 .initialism {

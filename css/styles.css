@@ -11389,28 +11389,24 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: whitesmoke;
 }
 
-.card2-left {
+.card1-left a{
+  text-decoration: none;
+  color: #fff19a;
+}
+
+.card1-right {
   background-color: #fff19a;
-  text-align: right;
+  text-align: left;
   color: #293250;
 }
 
-.card2-left .text-muted{
+.card1-right .text-muted{
   color: slategray;
 }
 
-.card3-left {
-  background-color: #f2bc94;
-  text-align: right;
+.card1-right a{
+  text-decoration: none;
   color: #293250;
-}
-
-.card3-left .text-muted{
-  color: oldlace;
-}
-
-.card-right {
-  background-color: whitesmoke;
 }
 
 .footer {

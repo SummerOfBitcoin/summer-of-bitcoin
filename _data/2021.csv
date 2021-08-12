@@ -53,6 +53,7 @@ Aastha Joshi,Bitcoin core,https://bitcoincore.org/,Jeremy Rubin,"Improvements to
 Ruhi Elizabeth Thomas,Bitcoin core,https://bitcoincore.org/,Dhruv Mehta,Fuzz testing improvements to Bitcoin core.
 Shubham Kumar,LDK,https://zeusln.app/,Evan Kaloudis,Improvements to Zeus.
 Shobhitaa Barik,JoinMarket,https://github.com/JoinMarket-Org,Adam Gibson,Developing a JavaScript webapp to remotely control a JoinMarket instance.
-Raj Maheshwari,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkins,Improving test coverage in bcoin.
+Raj Maheshwari,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkin,Improving test coverage in bcoin.
+
 Shorya Kumar,Bitcoin core,https://bitcoincore.org/,Jeremy Rubin,"Improvements to Bitcoin core by code refactoring, performance optimization and benchmarking."
 Naiza Singla,Bitcoin core,https://bitcoincore.org/,Gloria Zhao,Improvements to mempool and package relay in Bitcoin core. 

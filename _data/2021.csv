@@ -7,7 +7,8 @@ Shashank Karmakar,Ride the lightning,https://github.com/Ride-The-Lightning/RTL,S
 Rohit Ranjan,Bitcoin core,https://bitcoincore.org/,Michael Ford,"Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin core."
 
 Abhishek Anantharam,Joinmarket,https://github.com/JoinMarket-Org,Adam Gibson,"Build an interactive interface for JoinMarket to enable end-users make Coinjoin transactions easily, using Flask and react.js."
-Purva Chaudhari ,Bitcoin core,https://bitcoincore.org/,Amiti Uttarwar ,Develop functional tests for Test Feeler Connections in Bitcoin core. 
+Purva Chaudhari ,Bitcoin core,https://bitcoincore.org/,Amiti Uttarwar,Develop functional tests for Test Feeler Connections in Bitcoin core. 
+
 Abhik Banerjee,rust-lightning,https://github.com/rust-bitcoin/rust-lightning,Jeffrey Czyz,Enable Last Hop Hints in routing from Payer to Payee based on Lightning Invoice (Bolt 11).
 Dhruv Joshi,Electrum Wallet,https://electrum.org/,ghost43,Implement various SIGHASH methods in Electrum wallet.
 Arnab Sen,Bitcoin core,https://bitcoincore.org/,Timo (0xb10c),Improve support for User Statically Defined Tracing (USDT) in Bitcoin core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.

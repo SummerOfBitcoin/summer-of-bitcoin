@@ -11,7 +11,8 @@ Purva Chaudhari ,Bitcoin core,https://bitcoincore.org/,Amiti Uttarwar,Develop fu
 
 Abhik Banerjee,rust-lightning,https://github.com/rust-bitcoin/rust-lightning,Jeffrey Czyz,Enable Last Hop Hints in routing from Payer to Payee based on Lightning Invoice (Bolt 11).
 Dhruv Joshi,Electrum Wallet,https://electrum.org/,ghost43,Implement various SIGHASH methods in Electrum wallet.
-Arnab Sen,Bitcoin core,https://bitcoincore.org/,Timo (0xb10c),Improve support for User Statically Defined Tracing (USDT) in Bitcoin core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.
+Arnab Sen,Bitcoin core,https://bitcoincore.org/,0xb10c,Improve support for User Statically Defined Tracing (USDT) in Bitcoin core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.
+
 Hani Mohammed,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
 Aman Gupta,Photon-SDK,https://github.com/photon-sdk,Tankred Hase,Implement a react native library in Photon-SDK based on Bitcoin-Wallet-UI kit.
 Harsh Ghodkar,Bitcoin core,https://bitcoincore.org/,James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."

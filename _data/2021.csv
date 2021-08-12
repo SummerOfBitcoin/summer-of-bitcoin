@@ -1,6 +1,7 @@
 Name,Project,Link,Mentor,Description
 Sriram Devata,Bitcoin core,https://bitcoincore.org/,Marco Falke,Add -initmempool setting to Bitcoin core and a fuzz target for txorphanage. 
-Nikhil Bartwal,Bitcoin core,https://bitcoincore.org/,Timo (0xb10c) ,"Add block re-org capability to the signet network, fix faucet's incompatibility with custom signet and improve documentation.
+Nikhil Bartwal,Bitcoin core,https://bitcoincore.org/,0xb10c,"Add block re-org capability to the signet network, fix faucet's incompatibility with custom signet and improve documentation.
+
 "
 Shashank Karmakar,Ride the lightning,https://github.com/Ride-The-Lightning/RTL,Shahana farooqui,Develop an enhanced logger and implement the backend in typescript.
 Rohit Ranjan,Bitcoin core,https://bitcoincore.org/,Michael Ford (Fanquake),"Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin core."

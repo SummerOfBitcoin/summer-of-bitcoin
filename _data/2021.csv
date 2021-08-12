@@ -20,7 +20,8 @@ Shubham Samrat,Revault,https://github.com/revault/,Antoine Poinsot,Rust implemen
 
 Harshit Goyal,Bitcoin core,https://bitcoincore.org/, James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
 Dipto Chakrabarty,Utreexo ,https://dci.mit.edu/utreexo,Calvin Kim,"Reviewing, testing and fixing issues in Utrexxo project."
-Sandipan Dey,BDK,https://bitcoindevkit.org/,Steve Myers (notmandatory),Add support for Bech32 address and Taproot in Bitcoin Dev Kit.
+Sandipan Dey,BDK,https://bitcoindevkit.org/,Steve Myers,Add support for Bech32 address and Taproot in Bitcoin Dev Kit.
+
 Shashwat Vangani,Bitcoin core,https://bitcoincore.org/,Jarol Rodriguez,"Improvements to bitcoin-core GUI i.e., bitcoin-qt. "
 Aman Rojjha,Rust miniscript,https://github.com/rust-bitcoin/rust-bitcoin,Sanket Kanjalkar,Add support for Taproot in rust-miniscript library. 
 Shreyansh Yadav,Bitcoin-S,https://github.com/bitcoin-s,Chris Stewart,Add support for multiple peer-to-peer connections in bitcoin-s.

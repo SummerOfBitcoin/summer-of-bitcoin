@@ -16,7 +16,8 @@ Arnab Sen,Bitcoin core,https://bitcoincore.org/,0xb10c,Improve support for User 
 Hani Mohammed,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
 Aman Gupta,Photon-SDK,https://github.com/photon-sdk,Tankred Hase,Implement a react native library in Photon-SDK based on Bitcoin-Wallet-UI kit.
 Harsh Ghodkar,Bitcoin core,https://bitcoincore.org/,James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
-Shubham Samrat,Revault,https://github.com/revault/,Antoine Poinsot (Darosior),Rust implementation of the Revault protocol.
+Shubham Samrat,Revault,https://github.com/revault/,Antoine Poinsot,Rust implementation of the Revault protocol.
+
 Harshit Goyal,Bitcoin core,https://bitcoincore.org/, James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
 Dipto Chakrabarty,Utreexo ,https://dci.mit.edu/utreexo,Calvin Kim,"Reviewing, testing and fixing issues in Utrexxo project."
 Sandipan Dey,BDK,https://bitcoindevkit.org/,Steve Myers (notmandatory),Add support for Bech32 address and Taproot in Bitcoin Dev Kit.

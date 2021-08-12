@@ -29,9 +29,7 @@ Aditee Singh,LDK,https://lightningdevkit.org/,Jamal James,"Implement keysend in 
 "
 Sunidhi Sharma,Padawan wallet,https://github.com/thunderbiscuit/padawan-wallet,Thunderbiscuit,Improvements to Padawan wallet.
 Siddhant Chawla,Electrum Wallet,https://electrum.org/,ghost43,GUI improvements to Electrum wallet.
-Priyansh Rastogi,Mempool.space,https://mempool.space/,"Softsimon, Wiz","
-
-Add a Lightning Network Explorer to Mempool.space."
+Priyansh Rastogi,Mempool.space,https://mempool.space/,"Softsimon, Wiz","Add a Lightning Network Explorer to Mempool.space."
 Shubhankar Gambhir,Bitcoin core,https://bitcoincore.org/,Vasil Dimov,"Reviewing, testing and fixing issues in Bitcoin core."
 Neha Kumari,LDK,https://lightningdevkit.org/,Jamal James,Lightning application to send and receive payments using LND nodes. 
 Prakash Choudhary,Bitcoin core,https://bitcoincore.org/,Dhruv Mehta,Developing fuzz test to prove that the Bitcoin core implementation of streamcipher chacha20 is the same as the reference implementation by D.J. Bernstein and improvements to BIP324.

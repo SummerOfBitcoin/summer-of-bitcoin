@@ -4,7 +4,8 @@ Nikhil Bartwal,Bitcoin core,https://bitcoincore.org/,0xb10c,"Add block re-org ca
 
 "
 Shashank Karmakar,Ride the lightning,https://github.com/Ride-The-Lightning/RTL,Shahana farooqui,Develop an enhanced logger and implement the backend in typescript.
-Rohit Ranjan,Bitcoin core,https://bitcoincore.org/,Michael Ford (Fanquake),"Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin core."
+Rohit Ranjan,Bitcoin core,https://bitcoincore.org/,Michael Ford,"Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin core."
+
 Abhishek Anantharam,Joinmarket,https://github.com/JoinMarket-Org,Adam Gibson,"Build an interactive interface for JoinMarket to enable end-users make Coinjoin transactions easily, using Flask and react.js."
 Purva Chaudhari ,Bitcoin core,https://bitcoincore.org/,Amiti Uttarwar ,Develop functional tests for Test Feeler Connections in Bitcoin core. 
 Abhik Banerjee,rust-lightning,https://github.com/rust-bitcoin/rust-lightning,Jeffrey Czyz,Enable Last Hop Hints in routing from Payer to Payee based on Lightning Invoice (Bolt 11).

@@ -1,0 +1,50 @@
+Name,Project,Link,Mentor,Description
+Sriram Devata,Bitcoin core,https://bitcoincore.org/,Marco Falke,Add -initmempool setting to Bitcoin core and a fuzz target for txorphanage. 
+Nikhil Bartwal,Bitcoin core,https://bitcoincore.org/,0xb10c,"Add block re-org capability to the signet network, fix faucet's incompatibility with custom signet and improve documentation."
+Shashank Karmakar,Ride the lightning,https://github.com/Ride-The-Lightning/RTL,Shahana farooqui,Develop an enhanced logger and implement the backend in typescript.
+Rohit Ranjan,Bitcoin core,https://bitcoincore.org/,Michael Ford,"Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin core."
+Abhishek Anantharam,Joinmarket,https://github.com/JoinMarket-Org,Adam Gibson,"Build an interactive interface for JoinMarket to enable end-users make Coinjoin transactions easily, using Flask and react.js."
+Purva Chaudhari ,Bitcoin core,https://bitcoincore.org/,Amiti Uttarwar,Develop functional tests for Test Feeler Connections in Bitcoin core. 
+Abhik Banerjee,rust-lightning,https://github.com/rust-bitcoin/rust-lightning,Jeffrey Czyz,Enable Last Hop Hints in routing from Payer to Payee based on Lightning Invoice (Bolt 11).
+Dhruv Joshi,Electrum Wallet,https://electrum.org/,ghost43,Implement various SIGHASH methods in Electrum wallet.
+Arnab Sen,Bitcoin core,https://bitcoincore.org/,0xb10c,Improve support for User Statically Defined Tracing (USDT) in Bitcoin core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.
+Hani Mohammed,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
+Aman Gupta,Photon-SDK,https://github.com/photon-sdk,Tankred Hase,Implement a react native library in Photon-SDK based on Bitcoin-Wallet-UI kit.
+Harsh Ghodkar,Bitcoin core,https://bitcoincore.org/,James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
+Shubham Samrat,Revault,https://github.com/revault/, Antoine Poinsot,Rust implementation of the Revault protocol.
+Harshit Goyal,Bitcoin core,https://bitcoincore.org/, James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
+Dipto Chakrabarty,Utreexo ,https://dci.mit.edu/utreexo,Calvin Kim,"Reviewing, testing and fixing issues in Utrexxo project."
+Sandipan Dey,BDK,https://bitcoindevkit.org/,Steve Myers,Add support for Bech32 address and Taproot in Bitcoin Dev Kit.
+Shashwat Vangani,Bitcoin core,https://bitcoincore.org/,Jarol Rodriguez,"Improvements to bitcoin-core GUI i.e., bitcoin-qt. "
+Aman Rojjha,Rust miniscript,https://github.com/rust-bitcoin/rust-bitcoin,Sanket Kanjalkar,Add support for Taproot in rust-miniscript library. 
+Shreyansh Yadav,Bitcoin-S,https://github.com/bitcoin-s,Chris Stewart,Add support for multiple peer-to-peer connections in bitcoin-s.
+Aditee Singh,LDK,https://lightningdevkit.org/,Jamal James,"Implement keysend in LDK to allow lightning payments without invoices."
+Sunidhi Sharma,Padawan wallet,https://github.com/thunderbiscuit/padawan-wallet,Thunderbiscuit,Improvements to Padawan wallet.
+Siddhant Chawla,Electrum Wallet,https://electrum.org/,ghost43,GUI improvements to Electrum wallet.
+Priyansh Rastogi,Mempool.space,https://mempool.space/,"Softsimon, Wiz","Add a Lightning Network Explorer to Mempool.space."
+Shubhankar Gambhir,Bitcoin core,https://bitcoincore.org/,Vasil Dimov,"Reviewing, testing and fixing issues in Bitcoin core."
+Neha Kumari,LDK,https://lightningdevkit.org/,Jamal James,Lightning application to send and receive payments using LND nodes. 
+Prakash Choudhary,Bitcoin core,https://bitcoincore.org/,Dhruv Mehta,Developing fuzz test to prove that the Bitcoin core implementation of streamcipher chacha20 is the same as the reference implementation by D.J. Bernstein and improvements to BIP324.
+Pradyuman Verma,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkin,"Improvements to bcoin project in areas of test coverage, prune node services, compact block filters and BIP49 and BIP84 implementation."
+Mohit Bhat,Padawan wallet,https://github.com/thunderbiscuit/padawan-wallet,Thunderbiscuit,Improvements to Padawan wallet.
+Prateek Sancheti,Bitcoin core,https://bitcoincore.org/,Hennadii Stepanov,"Improvements to bitcoin-core GUI i.e., bitcoin-qt. "
+Tushar Singla,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
+Aarush Bhat,Utreexo,https://dci.mit.edu/utreexo,Calvin Kim,Improvements to utreexo.
+Vibhav Sharma,Lightning Network,https://github.com/altangent/node-lightning,Brian Mancini,Node.js implementation of LN. 
+Prateek Sancheti,Bitcoin core,https://bitcoincore.org/,Hennadii Stepanov,"Reviewing, testing and fixing issues in Bitcoin core."
+Kirandevraj,Bitcoin core,https://bitcoincore.org/,Sjors Provoost,Optimizing performance of descriptor wallets in Bitcoin core.
+Aditya Sharma,C-lightning,https://github.com/ElementsProject/lightning,Rusty Russell,"Implementing a web socket in native JavaScript for communicating with LN nodes, decoding/creating messages and BOLT12 offers/invoice_request/invoices."
+Pranab Pandey,Bitcoin core,https://bitcoincore.org/,Gregory Sanders,Improvements to wallet RPC for accurate fee estimation.
+D Sivaram,secp256k1,https://github.com/bitcoin-core/secp256k1,Jesse Posner,Improvements to test coverage for the chacha20 streamcipher and SchnorrSig implementation in bitcoin core. Work on human-readable error messages and CSV benchmark outputs for the secp256k1 library used by Bitcoin core.
+Ritick Goenka,Bitcoin core,https://bitcoincore.org/,Russel Yanofsky,"Reviewing, testing and fixing issues in Bitcoin core. Developing tests for mempool ancestor/descendant limits."
+Vaibhav Garg,Revault,https://github.com/revault/,Antoine Poinsot (Darosior),Rust implementation of the Revault protocol.
+Rishabh,Mempool.space,https://mempool.space/,Wiz,Add a Lightning Network explorer to Mempool.space. 
+Shruthii RG,Bitcoin-S,https://github.com/bitcoin-s,Chris Stewart,Implement mempool for Bitcoin-S to enable a robust and fault tolerant p2p network.
+Manan Sharma,BTCPayServer & NBXplorer,https://btcpayserver.org/,rockstardev,Improvements to BTCPayServer & NBXplorer.
+Aastha Joshi,Bitcoin core,https://bitcoincore.org/,Jeremy Rubin,"Improvements to Bitcoin core by code refactoring, performance optimization and benchmarking."
+Ruhi Elizabeth Thomas,Bitcoin core,https://bitcoincore.org/,Dhruv Mehta,Fuzz testing improvements to Bitcoin core.
+Shubham Kumar,LDK,https://zeusln.app/,Evan Kaloudis,Improvements to Zeus.
+Shobhitaa Barik,JoinMarket,https://github.com/JoinMarket-Org,Adam Gibson,Developing a JavaScript webapp to remotely control a JoinMarket instance.
+Raj Maheshwari,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkin,Improving test coverage in bcoin.
+Shorya Kumar,Bitcoin core,https://bitcoincore.org/,Jeremy Rubin,"Improvements to Bitcoin core by code refactoring, performance optimization and benchmarking."
+Naiza Singla,Bitcoin core,https://bitcoincore.org/,Gloria Zhao,Improvements to mempool and package relay in Bitcoin core.

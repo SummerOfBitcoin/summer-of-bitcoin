@@ -5,14 +5,14 @@ Shashank Karmakar,Bharati Vidyapeeth Pune,Ride the lightning,https://github.com/
 Rohit Ranjan,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Michael Ford,"Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin core."
 Abhishek Anantharam,Vellore Institute of Technology,Joinmarket,https://github.com/JoinMarket-Org,Adam Gibson,"Build an interactive interface for JoinMarket to enable end-users make Coinjoin transactions easily, using Flask and react.js."
 Purva Chaudhari,VIT Pune,Bitcoin core,https://bitcoincore.org/,Amiti Uttarwar,Develop functional tests for Test Feeler Connections in Bitcoin core. 
-Abhik Banerjee,,rust-lightning,https://github.com/rust-bitcoin/rust-lightning,Jeffrey Czyz,Enable Last Hop Hints in routing from Payer to Payee based on Lightning Invoice (Bolt 11).
+Abhik Banerjee,Netaji Subhash Engineering College,rust-lightning,https://github.com/rust-bitcoin/rust-lightning,Jeffrey Czyz,Enable Last Hop Hints in routing from Payer to Payee based on Lightning Invoice (Bolt 11).
 Dhruv Joshi,College of Engineering Pune,Electrum Wallet,https://electrum.org/,ghost43,Implement various SIGHASH methods in Electrum wallet.
-Arnab Sen,,Bitcoin core,https://bitcoincore.org/,0xb10c,Improve support for User Statically Defined Tracing (USDT) in Bitcoin core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.
-Hani Mohammed,,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
-Aman Gupta,,Photon-SDK,https://github.com/photon-sdk,Tankred Hase,Implement a react native library in Photon-SDK based on Bitcoin-Wallet-UI kit.
+Arnab Sen,IIEST Shibpur,Bitcoin core,https://bitcoincore.org/,0xb10c,Improve support for User Statically Defined Tracing (USDT) in Bitcoin core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.
+Hani Mohammed,IIIT Sri City,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
+Aman Gupta,IIIT Sonepat,Photon-SDK,https://github.com/photon-sdk,Tankred Hase,Implement a react native library in Photon-SDK based on Bitcoin-Wallet-UI kit.
 Harsh Ghodkar,Dr. Jivraj Mehta Institute of Technology Gujarat,Bitcoin core,https://bitcoincore.org/,James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
 Shubham Samrat,IIT BHU,Revault,https://github.com/revault/, Antoine Poinsot,Rust implementation of the Revault protocol.
-Harshit Goyal,,Bitcoin core,https://bitcoincore.org/, James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
+Harshit Goyal,Delhi Technological University,Bitcoin core,https://bitcoincore.org/, James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
 Dipto Chakrabarty,Vellore Institute of Technology,Utreexo ,https://dci.mit.edu/utreexo,Calvin Kim,"Reviewing, testing and fixing issues in Utreexo project."
 Sandipan Dey,Academy of Technology - West Bengal,BDK,https://bitcoindevkit.org/,Steve Myers,Add support for Bech32 address and Taproot in Bitcoin Dev Kit.
 Shashwat Vangani,IIT Roorkee,Bitcoin core,https://bitcoincore.org/,Jarol Rodriguez,"Improvements to bitcoin-core GUI i.e., bitcoin-qt. "
@@ -28,9 +28,9 @@ Prakash Choudhary,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Dhruv Mehta,D
 Pradyuman Verma,IIT Roorkee,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkin,"Improvements to bcoin project in areas of test coverage, prune node services, compact block filters and BIP49 and BIP84 implementation."
 Mohit Bhat,Bennett University,Padawan wallet,https://github.com/thunderbiscuit/padawan-wallet,Thunderbiscuit,Improvements to Padawan wallet.
 Prateek Sancheti,IIIT Hyderabad,Bitcoin core,https://bitcoincore.org/,Hennadii Stepanov,"Improvements to bitcoin-core GUI i.e., bitcoin-qt. "
-Tushar Singla,,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
+Tushar Singla,IIT Kanpur,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
 Aarush Bhat,Vellore Institute of Technology,Utreexo,https://dci.mit.edu/utreexo,Calvin Kim,Improvements to utreexo.
-Vibhav Sharma,,Lightning Network,https://github.com/altangent/node-lightning,Brian Mancini,Node.js implementation of LN. 
+Vibhav Sharma,Bennett University,Lightning Network,https://github.com/altangent/node-lightning,Brian Mancini,Node.js implementation of LN. 
 Kirandevraj,IIIT Hyderabad,Bitcoin core,https://bitcoincore.org/,Sjors Provoost,Optimizing performance of descriptor wallets in Bitcoin core.
 Aditya Sharma,IIT BHU,C-lightning,https://github.com/ElementsProject/lightning,Rusty Russell,"Implementing a web socket in native JavaScript for communicating with LN nodes, decoding/creating messages and BOLT12 offers/invoice_request/invoices."
 Pranab Pandey,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Gregory Sanders,Improvements to wallet RPC for accurate fee estimation.

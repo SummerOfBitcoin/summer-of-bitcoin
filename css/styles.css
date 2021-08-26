@@ -11425,3 +11425,11 @@ section#contact form#contactForm :-ms-input-placeholder {
 .university_name {
   text-transform: uppercase;
 }
+
+.carousel-caption {
+  position: relative;
+  left: auto;
+  right: auto;
+  bottom: auto;
+  color: #212529;
+}

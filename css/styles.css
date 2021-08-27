@@ -11433,3 +11433,30 @@ section#contact form#contactForm :-ms-input-placeholder {
   bottom: auto;
   color: #212529;
 }
+
+.carousel-indicators {
+    bottom: -30px;
+}
+
+@media (max-width: 767px) {
+ 
+  .carousel-control-prev, 
+  .carousel-control-next {
+      display: none;
+  }
+
+ .carousel-indicators li {
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+}
+
+
+
+.carousel-control-prev {
+  margin-left: -75px;
+}
+
+.carousel-control-next {
+  margin-right: -75px;
+}

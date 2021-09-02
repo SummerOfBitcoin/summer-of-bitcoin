@@ -899,11 +899,6 @@
                         </div>
                     </div>
                 </div>
-               <!-- 
-                   <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
-                </div>
-               --> 
             </div>
         </section>
         
@@ -918,17 +913,17 @@
             <div class="row">
               <div class="col col-md-10 offset-md-1 col-lg-8 offset-lg-2">
                 <!-- Carousel -->
-                <div class="carousel slide carousel-dark" data-bs-ride="carousel">
+                <div id="myCarousel" class="carousel slide carousel-dark" data-bs-ride="carousel">
                     <div class="carousel-indicators">
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="3" aria-label="Slide 4"></button>
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="4" aria-label="Slide 5"></button>
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="5" aria-label="Slide 6"></button>
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="6" aria-label="Slide 7"></button>
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="7" aria-label="Slide 8"></button>
-                        <button type="button" data-bs-target="#resources" data-bs-slide-to="8" aria-label="Slide 9"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
+                        <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="8" aria-label="Slide 9"></button>
                       </div>
                   <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -1041,11 +1036,11 @@
                   
                   </div>
                   
-                  <button class="carousel-control-prev" type="button" data-bs-target="#resources" data-bs-slide="prev">
+                  <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                   </button>
-                  <button class="carousel-control-next" type="button" data-bs-target="#resources" data-bs-slide="next">
+                  <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                   </button>
@@ -1055,6 +1050,28 @@
               </div>
             </div>
             <!-- End carousel row -->
+          </div>
+        </section>
+
+        <section class="page-section">
+          <div class="container">
+          <div class="row">
+            <div class="col-lg-12 mx-auto text-center"><h3>Want to become a Bitcoin Developer?</h3><p> Sign up for our free newsletter to receive all the news, ideas and resources to build on Bitcoin.</p></div>
+          </div>
+               
+          <div class="row">
+            <div class="col-auto mx-auto">
+              <div id="revue-embed">
+                <form class="row g-2 justify-content-center" action="https://blog.summerofbitcoin.org/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+                  <div class="col-auto">
+                    <input class="form-control revue-form-field" placeholder="Your email address" type="email" name="member[email]" id="member_email">
+                  </div>
+                  <div class="col-auto">
+                    <input class="btn btn-warning" type="submit" value="I want to build on &#8383;itcoin" name="member[subscribe]" id="member_submit">
+                  </div>
+                </form>
+              </div>
+            </div>
           </div>
         </section>
 

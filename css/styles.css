@@ -11460,3 +11460,14 @@ section#contact form#contactForm :-ms-input-placeholder {
 .carousel-control-next {
   margin-right: -75px;
 }
+
+.supporters{
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.supporters .figure {
+  flex-basis: 125px;
+  text-align: center;
+}

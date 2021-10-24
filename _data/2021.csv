@@ -1,50 +1,50 @@
-Name,University,Project,Link,Mentor,Description
-Sriram Devata,IIIT Hyderabad,Bitcoin core,https://bitcoincore.org/,Marco Falke,"Introduce a -nomempool runtime option to run a Bitcoin node without the mempool, and add a fuzz target for orphan transaction handling to detect potential security issues."
-Nikhil Bartwal,Amity University,Bitcoin core,https://bitcoincore.org/,0xb10c,"Add block re-org capability to the signet network, fix faucet's incompatibility with custom signet and improve documentation."
-Shashank Karmakar,Bharati Vidyapeeth Pune,Ride the lightning,https://github.com/Ride-The-Lightning/RTL,Shahana farooqui,"Adding enhanced logger, supporting CPFP (child-pays-for-parent) feature and BOLT12 in RTL."
-Rohit Ranjan,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Michael Ford,"Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin core."
-Abhishek Anantharam,Vellore Institute of Technology,Joinmarket,https://github.com/JoinMarket-Org,Adam Gibson,"Build an interactive interface for JoinMarket to enable end-users make Coinjoin transactions easily, using Flask and react.js."
-Purva Chaudhari,VIT Pune,Bitcoin core,https://bitcoincore.org/,Amiti Uttarwar,Develop functional tests for Test Feeler Connections in Bitcoin core. 
+Name,University,Project,Link,Mentor,Description,Demo_URL
+Sriram Devata,IIIT Hyderabad,Bitcoin Core,https://bitcoincore.org/,Marco Falke,"Introduce a -nomempool runtime option to run a Bitcoin node without the mempool, and add a fuzz target for orphan transaction handling to detect potential security issues.",https://youtu.be/KcHbdcI-9fU
+Nikhil Bartwal,Amity University,Bitcoin Core,https://bitcoincore.org/,0xb10c,"Add block re-org capability to the signet network, fix faucet's incompatibility with custom signet and improve documentation.",https://youtu.be/QYZp4G9dpqA
+Shashank Karmakar,Bharati Vidyapeeth Pune,Ride the lightning,https://github.com/Ride-The-Lightning/RTL,Shahana farooqui,"Adding enhanced logger, supporting CPFP (child-pays-for-parent) feature and BOLT12 in RTL.",https://youtu.be/kK2xapzSSyY
+Rohit Ranjan,IIT Kanpur,Bitcoin Core,https://bitcoincore.org/,Michael Ford,"Profile Guided Optimization (PGO) i.e., using profiling and instrumentation techniques to analyze run time statistics and integrate it in Bitcoin Core.",https://youtu.be/7u0r2TwitQ4
+Abhishek Anantharam,Vellore Institute of Technology,Joinmarket,https://github.com/JoinMarket-Org,Adam Gibson,"Build an interactive interface for JoinMarket to enable end-users make Coinjoin transactions easily, using Flask and react.js.",https://youtu.be/lnne-bwZvp8
+Purva Chaudhari,VIT Pune,Bitcoin Core,https://bitcoincore.org/,Amiti Uttarwar,Develop functional tests for Test Feeler Connections in Bitcoin Core.,https://youtu.be/ECFjdWBzxoc
 Abhik Banerjee,Netaji Subhash Engineering College,LDK,https://lightningdevkit.org/,Jeffrey Czyz,Enable Last Hop Hints in routing from Payer to Payee based on Lightning Invoice (Bolt 11).
-Dhruv Joshi,College of Engineering Pune,Electrum Wallet,https://electrum.org/,ghost43,Implement various SIGHASH methods in Electrum wallet.
-Arnab Sen,IIEST Shibpur,Bitcoin core,https://bitcoincore.org/,0xb10c,Improve support for User Statically Defined Tracing (USDT) in Bitcoin core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.
+Dhruv Joshi,College of Engineering Pune,Electrum Wallet,https://electrum.org/,ghost43,Implement various SIGHASH methods in Electrum wallet.,https://youtu.be/PF9F2JDFrd0
+Arnab Sen,IIEST Shibpur,Bitcoin Core,https://bitcoincore.org/,0xb10c,Improve support for User Statically Defined Tracing (USDT) in Bitcoin Core by adding new tracepoints and scripts and leveraging eBPF (extended Berkeley Packet Filter) technology.,https://youtu.be/_Nq00FuxTJ8
 Hani Mohammed,IIIT Sri City,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
-Aman Gupta,IIIT Sonepat,Photon-SDK,https://github.com/photon-sdk,Tankred Hase,Implement a react native library in Photon-SDK based on Bitcoin-Wallet-UI kit.
-Harsh Ghodkar,Dr. Jivraj Mehta Institute of Technology Gujarat,Bitcoin core,https://bitcoincore.org/,James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
-Shubham Samrat,IIT BHU,Revault,https://github.com/revault/, Antoine Poinsot,Rust implementation of the Revault protocol.
-Harshit Goyal,Delhi Technological University,Bitcoin core,https://bitcoincore.org/, James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin core."
-Dipto Chakrabarty,Vellore Institute of Technology,Utreexo ,https://dci.mit.edu/utreexo,Calvin Kim,"Reviewing, testing and fixing issues in Utreexo project."
-Sandipan Dey,Academy of Technology - West Bengal,BDK,https://bitcoindevkit.org/,Steve Myers,Add support for Bech32 address and Taproot in Bitcoin Dev Kit.
-Shashwat Vangani,IIT Roorkee,Bitcoin core,https://bitcoincore.org/,Jarol Rodriguez,"Improvements to bitcoin-core GUI i.e., bitcoin-qt. "
-Aman Rojjha,IIIT Hyderabad,Rust miniscript,https://github.com/rust-bitcoin/rust-bitcoin,Sanket Kanjalkar,Add support for Taproot in rust-miniscript library. 
-Shreyansh Yadav,IIT BHU,Bitcoin-S,https://github.com/bitcoin-s,Chris Stewart,Add support for multiple peer-to-peer connections in bitcoin-s.
-Aditee Singh,J.S.S. Academy of Technical Education,LND,https://github.com/lightningnetwork/lnd,Jamal James,"Implement keysend in LDK to allow lightning payments without invoices."
-Sunidhi Sharma,LNMIIT Jaipur,Padawan wallet,https://github.com/thunderbiscuit/padawan-wallet,Thunderbiscuit,Improvements to Padawan wallet.
-Siddhant Chawla,NIT Warangal,Electrum Wallet,https://electrum.org/,ghost43,GUI improvements to Electrum wallet.
-Priyansh Rastogi,IIIT Hyderabad,Mempool.space,https://mempool.space/,"Softsimon, Wiz","Reviewing, testing and fixing issues in Mempool.space. Developing and integrating a Lightning Network Explorer."
-Shubhankar Gambhir,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Vasil Dimov,"Reviewing, testing and fixing issues in Bitcoin core."
-Neha Kumari,"Netaji Subhas Institute of Technology, Patna",LND,https://github.com/lightningnetwork/lnd,Jamal James,Lightning application to send and receive payments using LND nodes. 
-Prakash Choudhary,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Dhruv Mehta,Developing fuzz test to prove that the Bitcoin core implementation of streamcipher chacha20 is the same as the reference implementation by D.J. Bernstein and improvements to BIP324.
-Pradyuman Verma,IIT Roorkee,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkin,"Improvements to bcoin project in areas of test coverage, prune node services, compact block filters and BIP49 and BIP84 implementation."
-Mohit Bhat,Bennett University,Padawan wallet,https://github.com/thunderbiscuit/padawan-wallet,Thunderbiscuit,Improvements to Padawan wallet.
-Prateek Sancheti,IIIT Hyderabad,Bitcoin core,https://bitcoincore.org/,Hennadii Stepanov,"Improvements to bitcoin-core GUI i.e., bitcoin-qt. "
-Tushar Singla,IIT Kanpur,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.
+Aman Gupta,IIIT Sonepat,Photon-SDK,https://github.com/photon-sdk,Tankred Hase,Implement a react native library in Photon-SDK based on Bitcoin-Wallet-UI kit.,https://youtu.be/wcLuOilGDuc
+Harsh Ghodkar,Institute of Technology Gujarat,Bitcoin Core,https://bitcoincore.org/,James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin Core.",https://youtu.be/zPfPrfwjLlM
+Shubham Samrat,IIT BHU,Revault,https://github.com/revault/,Antoine Poinsot,Rust implementation of the Revault protocol.
+Harshit Goyal,Delhi Technological University,Bitcoin Core,https://bitcoincore.org/,James O'Beirne,"Reviewing, testing and fixing issues in Bitcoin Core.",https://youtu.be/5Z-OQqsGzf8
+Dipto Chakrabarty,Vellore Institute of Technology,Utreexo,https://dci.mit.edu/utreexo,Calvin Kim,"Reviewing, testing and fixing issues in Utreexo project.",https://youtu.be/ITvyNkdgASU
+Sandipan Dey,Academy of Technology - West Bengal,BDK,https://bitcoindevkit.org/,Steve Myers,Add support for Bech32 address and Taproot in Bitcoin Dev Kit.,https://youtu.be/JH2fP5BsHf0
+Shashwat Vangani,IIT Roorkee,Bitcoin Core,https://bitcoincore.org/,Jarol Rodriguez,"Improvements to bitcoin-core GUI i.e., bitcoin-qt.",https://youtu.be/RshE57WWdvc
+Aman Rojjha,IIIT Hyderabad,Rust miniscript,https://github.com/rust-bitcoin/rust-bitcoin,Sanket Kanjalkar,Add support for Taproot in rust-miniscript library.,https://youtu.be/txGCrUmfgis
+Shreyansh Yadav,IIT BHU,Bitcoin-S,https://github.com/bitcoin-s,Chris Stewart,Add support for multiple peer-to-peer connections in bitcoin-s.,https://youtu.be/yuc6RC5ZRZ0
+Aditee Singh,J.S.S. Academy of Technical Education,LND,https://github.com/lightningnetwork/lnd,Jamal James,Implement keysend in LDK to allow lightning payments without invoices.,https://youtu.be/bg7XiTqXTDE
+Sunidhi Sharma,LNMIIT Jaipur,Padawan wallet,https://github.com/thunderbiscuit/padawan-wallet,Thunderbiscuit,Improvements to Padawan wallet.,https://youtu.be/iz2F8bGpXGY
+Siddhant Chawla,NIT Warangal,Electrum Wallet,https://electrum.org/,ghost43,GUI improvements to Electrum wallet.,https://youtu.be/XkbbgO9oDyM
+Priyansh Rastogi,IIIT Hyderabad,Mempool.space,https://mempool.space/,"Softsimon, Wiz","Reviewing, testing and fixing issues in Mempool.space. Developing and integrating a Lightning Network Explorer.",https://youtu.be/quHDpKekpSQ
+Shubhankar Gambhir,IIT Kanpur,Bitcoin Core,https://bitcoincore.org/,Vasil Dimov,"Reviewing, testing and fixing issues in Bitcoin Core.",https://youtu.be/m_MKSgBE5mU
+Neha Kumari,"Netaji Subhas Institute of Technology, Patna",LND,https://github.com/lightningnetwork/lnd,Jamal James,Lightning application to send and receive payments using LND nodes.,https://youtu.be/Rzaiwh9piPA
+Prakash Choudhary,IIT Kanpur,Bitcoin Core,https://bitcoincore.org/,Dhruv Mehta,Developing fuzz test to prove that the Bitcoin Core implementation of streamcipher chacha20 is the same as the reference implementation by D.J. Bernstein and improvements to BIP324.,https://youtu.be/VIn1LD3i6Ss
+Pradyuman Verma,IIT Roorkee,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkin,"Improvements to bcoin project in areas of test coverage, prune node services, compact block filters and BIP49 and BIP84 implementation.",https://youtu.be/cOxGXm4VNRU
+Mohit Bhat,Bennett University,Padawan wallet,https://github.com/thunderbiscuit/padawan-wallet,Thunderbiscuit,Improvements to Padawan wallet.,https://youtu.be/JG27FIcfQHs
+Prateek Sancheti,IIIT Hyderabad,Bitcoin Core,https://bitcoincore.org/,Hennadii Stepanov,"Improvements to bitcoin-core GUI i.e., bitcoin-qt."
+Tushar Singla,IIT Kanpur,specter-desktop,https://github.com/cryptoadvance/specter-desktop,Ben Kaufman,CLI improvements for Specter Desktop.,https://youtu.be/PKze4xJ5fV8
 Aarush Bhat,Vellore Institute of Technology,Utreexo,https://dci.mit.edu/utreexo,Calvin Kim,Improvements to utreexo.
-Vibhav Sharma,Bennett University,Lightning Network,https://github.com/altangent/node-lightning,Brian Mancini,Node.js implementation of LN. 
-Kirandevraj,IIIT Hyderabad,Bitcoin core,https://bitcoincore.org/,Sjors Provoost,Optimizing performance of descriptor wallets in Bitcoin core.
-Aditya Sharma,IIT BHU,C-lightning,https://github.com/ElementsProject/lightning,Rusty Russell,"Implementing a web socket in native JavaScript for communicating with LN nodes, decoding/creating messages and BOLT12 offers/invoice_request/invoices."
-Pranab Pandey,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Gregory Sanders,Improvements to wallet RPC for accurate fee estimation.
-D Sivaram,IIT Kharagpur,secp256k1,https://github.com/bitcoin-core/secp256k1,Jesse Posner,Improvements to test coverage for the chacha20 streamcipher and SchnorrSig implementation in bitcoin core. Work on human-readable error messages and CSV benchmark outputs for the secp256k1 library used by Bitcoin core.
-Ritick Goenka,IIT Roorkee,Bitcoin core,https://bitcoincore.org/,Russel Yanofsky,"Reviewing, testing and fixing issues in Bitcoin core. Developing tests for mempool ancestor/descendant limits."
-Vaibhav Garg,Delhi Technological University,Revault,https://github.com/revault/,Antoine Poinsot (Darosior),Rust implementation of the Revault protocol.
-Rishabh,BITS Pilani,Mempool.space,https://mempool.space/,Wiz,Add a Lightning Network explorer to Mempool.space. 
-Shruthii RG,Dayananda Sagar College of Engineering,Bitcoin-S,https://github.com/bitcoin-s,Chris Stewart,Implement mempool for Bitcoin-S to enable a robust and fault tolerant p2p network.
-Manan Sharma,IIIT Hyderabad,BTCPayServer & NBXplorer,https://btcpayserver.org/,rockstardev,Improvements to BTCPayServer & NBXplorer.
-Aastha Joshi,KJ Somaiya College of Engineering,Bitcoin core,https://bitcoincore.org/,Jeremy Rubin,"Improvements to Bitcoin core by code refactoring, performance optimization and benchmarking."
-Ruhi Elizabeth Thomas,College of Engineering Trivandrum,Bitcoin core,https://bitcoincore.org/,Dhruv Mehta,Fuzz testing improvements to Bitcoin core.
-Shubham Kumar,IIT Roorkee,LDK,https://zeusln.app/,Evan Kaloudis,Improvements to Zeus.
-Shobhitaa Barik,Bennett University,JoinMarket,https://github.com/JoinMarket-Org,Adam Gibson,Developing a JavaScript webapp to remotely control a JoinMarket instance.
-Raj Maheshwari,IIIT Hyderabad,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkin,"Improving the test coverage for bcoin, and updating it to be at par with the latest improvements in Bitcoin core such as bech32m addresses, BIP49, BIP84, pruned node services and other taproot features."
-Shorya Kumar,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Jeremy Rubin,"Improvements to Bitcoin core by code refactoring, performance optimization and benchmarking."
-Naiza Singla,IIT Kanpur,Bitcoin core,https://bitcoincore.org/,Gloria Zhao,Improvements to mempool and package relay in Bitcoin core.
-Hemanth Krishna,Vellore Institute of Technology,LND,https://github.com/lightningnetwork/lnd,Carla-Kirk Cohen,Contributing to v14.0-beta release for LND and improvements in watchtowers.
+Vibhav Sharma,Bennett University,Lightning Network,https://github.com/altangent/node-lightning,Brian Mancini,Node.js implementation of LN.,https://youtu.be/uqtOB8yQCqc
+Kirandevraj,IIIT Hyderabad,Bitcoin Core,https://bitcoincore.org/,Sjors Provoost,Optimizing performance of descriptor wallets in Bitcoin Core.,https://youtu.be/bZPqajDAKk0
+Aditya Sharma,IIT BHU,C-lightning,https://github.com/ElementsProject/lightning,Rusty Russell,"Implementing a web socket in native JavaScript for communicating with LN nodes, decoding/creating messages and BOLT12 offers/invoice_request/invoices.",https://youtu.be/fy_ZDEKC2_0
+Pranab Pandey,IIT Kanpur,Bitcoin Core,https://bitcoincore.org/,Gregory Sanders,Improvements to wallet RPC for accurate fee estimation.,https://youtu.be/fy5SyU746MI
+D Sivaram,IIT Kharagpur,secp256k1,https://github.com/bitcoin-core/secp256k1,Jesse Posner,Improvements to test coverage for the chacha20 streamcipher and SchnorrSig implementation in Bitcoin Core. Work on human-readable error messages and CSV benchmark outputs for the secp256k1 library used by Bitcoin Core.,https://youtu.be/qzCOXbyEmyw
+Ritick Goenka,IIT Roorkee,Bitcoin Core,https://bitcoincore.org/,Russel Yanofsky,"Reviewing, testing and fixing issues in Bitcoin Core. Developing tests for mempool ancestor/descendant limits.",https://youtu.be/jLzZIDJCoiU
+Vaibhav Garg,Delhi Technological University,Revault,https://github.com/revault/,Antoine Poinsot (Darosior),Rust implementation of the Revault protocol.,https://youtu.be/aRqjYJ8G9Cg
+Rishabh,BITS Pilani,Mempool.space,https://mempool.space/,Wiz,Add a Lightning Network explorer to Mempool.space.,https://youtu.be/5qh1mdrdzQ0
+Shruthii RG,Dayananda Sagar College of Engineering,Bitcoin-S,https://github.com/bitcoin-s,Chris Stewart,Implement mempool for Bitcoin-S to enable a robust and fault tolerant p2p network.,https://youtu.be/X01ghxGLFmI
+Manan Sharma,IIIT Hyderabad,BTCPayServer & NBXplorer,https://btcpayserver.org/,rockstardev,Improvements to BTCPayServer & NBXplorer.,https://youtu.be/01XUfteO95k
+Aastha Joshi,KJ Somaiya College of Engineering,Bitcoin Core,https://bitcoincore.org/,Jeremy Rubin,"Improvements to Bitcoin Core by code refactoring, performance optimization and benchmarking.",https://youtu.be/QhqCgxV0-pk
+Ruhi Elizabeth Thomas,College of Engineering Trivandrum,Bitcoin Core,https://bitcoincore.org/,Dhruv Mehta,Fuzz testing improvements to Bitcoin Core.,https://youtu.be/7q_vdeTFRdY
+Shubham Kumar,IIT Roorkee,LDK,https://zeusln.app/,Evan Kaloudis,Improvements to Zeus.,https://youtu.be/H-M2u8xzmLc
+Shobhitaa Barik,Bennett University,JoinMarket,https://github.com/JoinMarket-Org,Adam Gibson,Developing a JavaScript webapp to remotely control a JoinMarket instance.,https://youtu.be/NQ-wnjhHhLU
+Raj Maheshwari,IIIT Hyderabad,bcoin,https://github.com/bcoin-org/bcoin,Matthew Zipkin,"Improving the test coverage for bcoin, and updating it to be at par with the latest improvements in Bitcoin Core such as bech32m addresses, BIP49, BIP84, pruned node services and other taproot features.",https://youtu.be/sfwl3V7UWj0
+Shorya Kumar,IIT Kanpur,Bitcoin Core,https://bitcoincore.org/,Jeremy Rubin,"Improvements to Bitcoin Core by code refactoring, performance optimization and benchmarking.",https://youtu.be/NnaI4_sDgNk
+Naiza Singla,IIT Kanpur,Bitcoin Core,https://bitcoincore.org/,Gloria Zhao,Improvements to mempool and package relay in Bitcoin Core.,https://youtu.be/kt7twNAGw9g
+Hemanth Krishna,Vellore Institute of Technology,LND,https://github.com/lightningnetwork/lnd,Carla-Kirk Cohen,"Contributing to v14.0-beta release for LND and improvements in watchtowers.",https://youtu.be/Qlh_23FsJ80
